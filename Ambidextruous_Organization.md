@@ -32,6 +32,8 @@ Reasons to transform into an ambidextrous organization
 - Its important that every instance is ready and open-minded for the new
 - The organization must focus on exploration and exploitation equally
 
+---
+
 Exploitation and Exploration 
 • Exploitation: It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
 
@@ -40,6 +42,8 @@ Exploitation and Exploration
 Exploration includes things captured by terms such as search, variation, risk taking, experimentation, play, flexibility, discovery, innovation
 
 organic structures, loosely coupled systems, path breaking, improvisation, autonomy and chaos, and emerging markets and technologies
+
+---
 
 Results of exploitation 
 •	Organizations that engage in exploitation mine depths of their core strengths and make the most of the resources available with them. 
@@ -52,6 +56,7 @@ Results of exploitation
 Example: Building new teams with focusing on specific skills from old ones so reusing or using the resources differently than before. 
 Teams who are working together for several years have adapted the behavior, thinking and vision of the other team members. Switching up the teams and recreating on a different type of focus it could help to reactivate those resources for the better.
 
+---
 
 Results of Exploration 
 •	Organizations that focus on exploration fix their gaze upon the horizon. 
@@ -64,3 +69,5 @@ Results of Exploration
 4.	Considering new identities 
 
 Example: Big companies build a team or new instance which is focusing on the exploration part. For example, like the bmw startup garage
+
+---
