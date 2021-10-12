@@ -41,3 +41,26 @@ Exploration includes things captured by terms such as search, variation, risk ta
 
 organic structures, loosely coupled systems, path breaking, improvisation, autonomy and chaos, and emerging markets and technologies
 
+Results of exploitation 
+•	Organizations that engage in exploitation mine depths of their core strengths and make the most of the resources available with them. 
+•	They focus on efficiency and productivity by capitalizing on their core strengths and differentiators. 
+•	It results in 
+1.	Avoidance of conflict 
+2.	Reduction of change 
+3.	Retaining and protecting identity. 
+
+Example: Building new teams with focusing on specific skills from old ones so reusing or using the resources differently than before. 
+Teams who are working together for several years have adapted the behavior, thinking and vision of the other team members. Switching up the teams and recreating on a different type of focus it could help to reactivate those resources for the better.
+
+
+Results of Exploration 
+•	Organizations that focus on exploration fix their gaze upon the horizon. 
+•	They discover new resources and find new ways to do things. 
+•	Here the focus in on Innovation. 
+•	It results in 
+1.	Discovering new products, markets 
+2.	Embracing conflicts and using it positively 
+3.	Accepting and adapting to change 
+4.	Considering new identities 
+
+Example: Big companies build a team or new instance which is focusing on the exploration part. For example, like the bmw startup garage
