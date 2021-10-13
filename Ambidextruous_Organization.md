@@ -35,6 +35,7 @@ Background
 ---
 
 # Exploitation and Exploration 
+
 • Exploitation: It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
 
 
@@ -63,6 +64,7 @@ Teams who are working together for several years have adapted the behavior, thin
 •	They discover new resources and find new ways to do things. 
 •	Here the focus in on Innovation. 
 •	It results in 
+
 1.	Discovering new products, markets 
 2.	Embracing conflicts and using it positively 
 3.	Accepting and adapting to change 
