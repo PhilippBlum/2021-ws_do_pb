@@ -2,7 +2,7 @@
 ---
 
 Background
-•Sustainable strategie
+•Sustainable strategy
 •Continues learning
 
 ---
