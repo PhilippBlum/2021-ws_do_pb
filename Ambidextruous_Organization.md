@@ -1,12 +1,3 @@
-# Ambidextrous Organziation
----
-
-Background
-•Sustainable strategy
-•Continues learning
-
----
-
 # Meaning:
 • The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
 
@@ -99,6 +90,10 @@ To be sustainably successful in the long run, companies have to maintain a varie
 
 # Ambidextrous Organizations
 Ambidextrous organization designs are composed of highly differentiated but weakly integrated subunits. While the exploratory units are small and decentralized, with loose cultures and processes the exploitation units are larger and more centralized, with tight cultures and processes. Exploratory units succeed by experimenting by frequently creating small wins and losses, Because process management tends to drive out experimentation, it must be prevented from migrating into exploratory units and processes In contrast, exploitation units that succeed by reducing variability and maximizing efficiency and control are an ideal location for tight coordination associated with process management efforts.
+
+##### Background
+- Sustainable strategy
+-  Continues learning
 
 ---
 
