@@ -126,3 +126,37 @@ Brain picture On this picture you can see the upsides of both exploration and ex
 
 ---
 
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+![Mountainview](nikita-sinyaev-Xmu9D7X00IY-unsplash.jpg)
+
+[![Alternate Text]({image-url})](pexels-peter-fowler-6394054.mp4 "Link Title")
+
+[Ulrich's Webiste](https://ulrich-anders.eu)
+
+[CBS International School](https://cbs.de)
+
+
+These are bullet points
+
+* bullet a
+    * Hello
+    * is it me 
+    * you'r looking for
+* bullet b
+* bullet c
+
+
+1. item 1
+1. item 2
+1. item 3
+1. item 4
+1. item 5
+1. item 6
