@@ -6,6 +6,7 @@ Background
 •Continues learning
 
 ---
+
 # Meaning:
 • The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
 
@@ -13,6 +14,7 @@ Background
 
 
 ---
+
 # Reasons to transform into an ambidextrous organization
 • Big and old companies have a hard time innovating
 • The companies must be aware of the situation and see the signals
@@ -24,6 +26,7 @@ Background
 - The organization must focus on exploration and exploitation equally
 
 ---
+
 ## Why were Ambidextrous Organizations developed?
 
 - Exploration and Exploitation were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
