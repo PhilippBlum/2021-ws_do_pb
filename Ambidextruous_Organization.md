@@ -70,13 +70,6 @@ Teams who are working together for several years have adapted the behavior, thin
 
 Example: Big companies build a team or new instance which is focusing on the exploration part. For example, like the bmw startup garage
 
----
-
-# Brauchen wir das noch?????
-Exploration refers to learning gained through processes of concerted variation, planned experimentation, and play”
-Exploitation refers to learning gained via local search, experiential refinement, and selection and reuse of existing routines.
-Exploitative innovations involve improvements in existing components and build on the existing technological trajectory.
-Exploratory innovation involves a shift to a different technological trajectory
 
 ---
 
