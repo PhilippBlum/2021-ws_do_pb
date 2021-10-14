@@ -6,13 +6,13 @@ Background
 •Continues learning
 
 ---
-Meaning:
+# Meaning:
 • The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
 
 • “Ambidexterity” can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
 
 ---
-Ambidextrous Organization 
+# Ambidextrous Organization 
 • Many successful companies separate new exploratory units from exploitive traditional units, but still keep a tightly linked executive team to manage the organizational separation. 
 
 • Such companies are referred to as “ambidextrous organizations”. 
@@ -22,7 +22,7 @@ Ambidextrous Organization
 • A clear vision is crucial in transforming a company into an ambidextrous organization. 
 
 ---
-Reasons to transform into an ambidextrous organization
+# Reasons to transform into an ambidextrous organization
 • Big and old companies have a hard time innovating
 • The companies must be aware of the situation and see the signals
 • Often its risky to keep the old structure of the company and not changing current paths
@@ -34,7 +34,8 @@ Reasons to transform into an ambidextrous organization
 
 ---
 
-Exploitation and Exploration 
+# Exploitation and Exploration 
+
 • Exploitation: It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
 
 
@@ -45,7 +46,7 @@ organic structures, loosely coupled systems, path breaking, improvisation, auton
 
 ---
 
-Results of exploitation 
+# Results of exploitation 
 •	Organizations that engage in exploitation mine depths of their core strengths and make the most of the resources available with them. 
 •	They focus on efficiency and productivity by capitalizing on their core strengths and differentiators. 
 •	It results in 
@@ -58,11 +59,12 @@ Teams who are working together for several years have adapted the behavior, thin
 
 ---
 
-Results of Exploration 
+# Results of Exploration 
 •	Organizations that focus on exploration fix their gaze upon the horizon. 
 •	They discover new resources and find new ways to do things. 
 •	Here the focus in on Innovation. 
 •	It results in 
+
 1.	Discovering new products, markets 
 2.	Embracing conflicts and using it positively 
 3.	Accepting and adapting to change 
