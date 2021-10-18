@@ -1,16 +1,18 @@
 # Meaning:
-• The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
+* The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
 
-• “Ambidexterity” can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
+Bild einfügen(Selbst erstellt)
+
+* “Ambidexterity” can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
 
 
 ---
 
 # Reasons to transform into an ambidextrous organization
-• Big and old companies have a hard time innovating
-• The companies must be aware of the situation and see the signals
-• Often its risky to keep the old structure of the company and not changing current paths
-• Ignoring the signals leads often to interruption
+* Big and old companies have a hard time innovating
+* The companies must be aware of the situation and see the signals
+* Often its risky to keep the old structure of the company and not changing current paths
+* Ignoring the signals leads often to interruption
 
 - Restructuring the organization and splitting teams and creating new teams makes it possible to react to the environmental change.
 - Its important that every instance is ready and open-minded for the new
@@ -28,10 +30,12 @@
 
 # Exploitation and Exploration 
 
-• Exploitation: It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
+#### Exploitation: 
+It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
 
 
-• Exploration: Constantly innovating and exploring new ideas and opportunities. 
+#### Exploration: 
+Constantly innovating and exploring new ideas and opportunities. 
 Exploration includes things captured by terms such as search, variation, risk taking, experimentation, play, flexibility, discovery, innovation
 
 organic structures, loosely coupled systems, path breaking, improvisation, autonomy and chaos, and emerging markets and technologies
@@ -39,9 +43,9 @@ organic structures, loosely coupled systems, path breaking, improvisation, auton
 ---
 
 # Results of Exploitation 
-•	Organizations that engage in exploitation mine depths of their core strengths and make the most of the resources available with them. 
-•	They focus on efficiency and productivity by capitalizing on their core strengths and differentiators. 
-•	It results in 
+* Organizations that engage in exploitation mine depths of their core strengths and make the most of the resources available with them. 
+* They focus on efficiency and productivity by capitalizing on their core strengths and differentiators. 
+* It results in: 
 1.	Avoidance of conflict 
 2.	Reduction of change 
 3.	Retaining and protecting identity. 
