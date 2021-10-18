@@ -1,4 +1,4 @@
-# Meaning:
+# Meaning
 * The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
 
 Bild einfügen(Selbst erstellt)
@@ -8,7 +8,7 @@ Bild einfügen(Selbst erstellt)
 
 ---
 
-# Reasons to transform into an ambidextrous organization
+# Reasons to transform into an Ambidextrous Organization
 * Big and old companies have a hard time innovating
 * The companies must be aware of the situation and see the signals
 * Often its risky to keep the old structure of the company and not changing current paths
@@ -20,7 +20,7 @@ Bild einfügen(Selbst erstellt)
 
 ---
 
-## Why were Ambidextrous Organizations developed?
+# Why were Ambidextrous Organizations developed?
 
 - Exploration and Exploitation were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
 - Therefore multiple frameworks were build to make that possible.
@@ -28,7 +28,7 @@ Bild einfügen(Selbst erstellt)
 
 ---
 
-# Exploitation and Exploration 
+## Exploitation and Exploration 
 
 #### Exploitation: 
 It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
@@ -42,7 +42,7 @@ organic structures, loosely coupled systems, path breaking, improvisation, auton
 
 ---
 
-# Results of Exploitation 
+# Results of exploitation 
 * Organizations that engage in exploitation mine depths of their core strengths and make the most of the resources available with them. 
 * They focus on efficiency and productivity by capitalizing on their core strengths and differentiators. 
 
@@ -57,7 +57,7 @@ Teams who are working together for several years have adapted the behavior, thin
 
 ---
 
-# Results of Exploration 
+# Results of exploration 
 * Organizations that focus on exploration fix their gaze upon the horizon. 
 * They discover new resources and find new ways to do things. 
 * Here the focus in on Innovation. 
