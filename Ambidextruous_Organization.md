@@ -42,6 +42,10 @@ organic structures, loosely coupled systems, path breaking, improvisation, auton
 
 ---
 
+[Explorationandexploit.png](Exploreandexploit.png)
+
+---
+
 # Results of exploitation 
 * Organizations that engage in exploitation mine depths of their core strengths and make the most of the resources available with them. 
 * They focus on efficiency and productivity by capitalizing on their core strengths and differentiators. 
@@ -56,6 +60,7 @@ Building new teams with focusing on specific skills from old ones so reusing or 
 Teams who are working together for several years have adapted the behavior, thinking and vision of the other team members. Switching up the teams and recreating on a different type of focus it could help to reactivate those resources for the better.
 
 ---
+
 
 # Results of exploration 
 * Organizations that focus on exploration fix their gaze upon the horizon. 
