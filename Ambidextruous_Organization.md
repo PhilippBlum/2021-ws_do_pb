@@ -1,7 +1,7 @@
 # Meaning
 * The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
 
-Bild einfügen(Selbst erstellt)
+![View](AmbidextriousView.JPG)
 
 * “Ambidexterity” can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
 
@@ -42,7 +42,7 @@ organic structures, loosely coupled systems, path breaking, improvisation, auton
 
 ---
 
-[Explorationandexploit.png](Exploreandexploit.png)
+![Modell](Exploreandexploit.png)
 
 ---
 
