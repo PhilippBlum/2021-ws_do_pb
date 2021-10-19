@@ -1,4 +1,12 @@
-Table of content 
+# Table of content 
+1. Meaning
+1. Reason for Ambidexterity
+1. Emergence of Ambidextrious Organisations    
+1. Exploitation and Exploration
+1. Innovation
+1. Ambidetrious Organisations
+1. Takeaways
+
 
 # Meaning
 * The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
@@ -7,7 +15,7 @@ Table of content
 
 * “Ambidexterity” can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
 
-![View](AmbidextriousView.JPG)
+![View](AmbidextriousView2.0.JPG)
 ---
 
 # Reasons to transform into an Ambidextrous Organization
@@ -26,7 +34,7 @@ Table of content
 
 - Exploration and Exploitation were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
 - Therefore multiple frameworks were build to make that possible.
-- And one of those frameworks is an ambidextrous organization.
+>> &rarr; one of those frameworks is an "Ambidextrous Organization"
 
 ---
 
@@ -35,14 +43,21 @@ Table of content
 #### Exploitation: 
 It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
 
+>> &rarr; Ressources, process, units, structure, teams, etc.
 
 #### Exploration: 
 Constantly innovating and exploring new ideas and opportunities. 
-Exploration includes things captured by terms such as search, variation, risk taking, experimentation, play, flexibility, discovery, innovation
 
- >> &rarr; organic structures, loosely coupled systems, path breaking, improvisation, autonomy and chaos, and emerging markets and technologies
+
+ >> &rarr; Innovations, optimization, improvements through change management 
+ 
 
 ---
+
+![Modell](Exploreandexploit1.png)
+
+---
+
 
 ![Modell](Exploreandexploit.png)
 
@@ -130,7 +145,7 @@ Brain picture On this picture you can see the upsides of both exploration and ex
 
 ---
 
-# Main takeaways,
+# Main takeaways
 
 1. To stay relevant you have to constantly innovate. 
 2. Approaches to that are exploration and exploitation. 
