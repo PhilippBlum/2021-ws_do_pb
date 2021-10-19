@@ -1,11 +1,13 @@
+Table of content 
+
 # Meaning
 * The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
 
-![View](AmbidextriousView.JPG)
+
 
 * “Ambidexterity” can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
 
-
+![View](AmbidextriousView.JPG)
 ---
 
 # Reasons to transform into an Ambidextrous Organization
@@ -38,7 +40,7 @@ It refers to constantly exploiting the available resources and ideas and making 
 Constantly innovating and exploring new ideas and opportunities. 
 Exploration includes things captured by terms such as search, variation, risk taking, experimentation, play, flexibility, discovery, innovation
 
-organic structures, loosely coupled systems, path breaking, improvisation, autonomy and chaos, and emerging markets and technologies
+ >> &rarr; organic structures, loosely coupled systems, path breaking, improvisation, autonomy and chaos, and emerging markets and technologies
 
 ---
 
@@ -75,7 +77,7 @@ It results in:
 4.	Considering new identities 
 
 ##### Example:
- Big companies build a team or new instance which is focusing on the exploration part. For example, like the bmw startup garage
+Big companies build a team or new instance which is focusing on the exploration part. For example, like the bmw startup garage
 
 
 ---
