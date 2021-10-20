@@ -13,7 +13,7 @@
 
 
 
-* “Ambidexterity” can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
+* &#34;Ambidexterity&#34; can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
 
 ![View](AmbidextriousView2.0.JPG)
 ---
