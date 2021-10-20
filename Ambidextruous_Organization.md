@@ -7,22 +7,28 @@
 1. Ambidetrious Organisations
 1. Takeaways
 
+---
 
 # Meaning
 * The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
 
+![View](AmbidextriousView2.0.JPG)
 
+---
 
 * &#34;Ambidexterity&#34; can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
 
-![View](AmbidextriousView2.0.JPG)
 ---
 
-# Reasons to transform into an Ambidextrous Organization
-* Big and old companies have a hard time innovating
-* The companies must be aware of the situation and see the signals
-* Often its risky to keep the old structure of the company and not changing current paths
-* Ignoring the signals leads often to interruption
+
+# Reasons to transform 
+* Communication problems
+* poor flexibility
+* long decision-making path
+* Companies have a hard time innovating
+* Ignoring change leads often to interruption
+
+---
 
 - Restructuring the organization and splitting teams and creating new teams makes it possible to react to the environmental change.
 - Its important that every instance is ready and open-minded for the new
