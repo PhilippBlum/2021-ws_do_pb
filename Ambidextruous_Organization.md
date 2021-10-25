@@ -23,8 +23,8 @@
 
 # Reasons to transform 
 * Communication problems
-* poor flexibility
-* long decision-making path
+* Poor flexibility
+* Long decision-making path
 * Companies have a hard time innovating
 * Ignoring change leads often to interruption
 
@@ -45,16 +45,11 @@
 ---
 
 ## Exploitation and Exploration 
-
 #### Exploitation: 
 It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
-
 >> &rarr; Ressources, process, units, structure, teams, etc.
-
 #### Exploration: 
 Constantly innovating and exploring new ideas and opportunities. 
-
-
  >> &rarr; Innovations, optimization, improvements through change management 
  
 
