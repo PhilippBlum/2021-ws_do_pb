@@ -29,7 +29,7 @@
 
 ---
 
-# Why were Ambidextrous Organizations developed?
+### Why were Ambidextrous Organizations developed?
 
 - ***Exploration*** and ***Exploitation*** were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
 - Therefore multiple frameworks were build to make that possible.
@@ -68,7 +68,7 @@ Focusing on existing resources| Focusing on innovation |
 ## Summary
 To quickly sum up, what our research found out.
 1. The essence of exploitation is the refinement and extension of existing competencies, technologies, and paradigms.
-2. Exploration tries to  shift to a new technology which means finding a new trajectory. They do that by planned experimentation and play.
+2. Exploration tries to  shift to a new technology which means finding a new trajectory. It's done by planned experimentation and play.
 3. The essence of exploration is experimentation with new alternatives to come up with new ideas.
 
 ---
@@ -76,7 +76,7 @@ To quickly sum up, what our research found out.
 
 - Exploration and Exploitation 
 - Innovation
-- success
+- Success
 
 ---
 
@@ -94,10 +94,16 @@ Video Clip with animaker.
 
 ---
 
-Brain picture On this picture you can see the upsides of both exploration and exploitation approaches. ask everyone which sides represents which concept.
+### Upsides
+On this picture you can see the upsides of both exploration and exploitation approaches.
+
+![View](IMG_0316.jpg)
 
 ---
 
+![View](IMG_0317.jpg)
+
+---
 # Main takeaways
 
 1. To stay relevant you have to constantly innovate. 
