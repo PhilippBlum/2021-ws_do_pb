@@ -1,3 +1,10 @@
+<style type="text/css" rel="stylesheet">
+* { color: white; 
+    /background-image: url("Background.jpg");
+    border-collapse: collapse;
+}
+</style>
+
 # Table of content 
 1. Meaning
 1. Reason for Ambidexterity
@@ -115,9 +122,3 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 
-<style type="text/css" rel="stylesheet">
-* { color: white; 
-    background-image: 
-
-}
-</style>
