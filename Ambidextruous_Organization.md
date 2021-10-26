@@ -20,7 +20,6 @@
 
 ---
 
-
 # Reasons to transform 
 * Communication problems
 * Poor flexibility
@@ -58,28 +57,11 @@ Constantly innovating and exploring new ideas and opportunities.
 
 ---
 
-# Results of exploitation 
-* Organizations that engage in exploitation mine depths of their core strengths and make the most of the resources available with them. 
-* They focus on efficiency and productivity by capitalizing on their core strengths and differentiators. 
-
-It results in: 
-1.	Avoidance of conflict 
-2.	Reduction of change 
-3.	Retaining and protecting identity. 
-
----
-
-# Results of exploration 
-* Organizations that focus on exploration fix their gaze upon the horizon. 
-* They discover new resources and find new ways to do things. 
-* Here the focus in on Innovation. 
-
-It results in:
-
-1.	Discovering new products, markets 
-2.	Embracing conflicts and using it positively 
-3.	Accepting and adapting to change 
-4.	Considering new identities 
+Exploitation | Exploration 
+---| --- |
+Investing in their core strengths | Discovering new resources |
+Focusing on existing resources| Focusing on innovation |
+***Results***: Reduction of change, avoidance of conflict | ***Results***: Embracing conflicts and using it positively, accepting and adapting to change, discovering new markets  | 
 
 ---
 
@@ -123,7 +105,7 @@ Brain picture On this picture you can see the upsides of both exploration and ex
 3. The framework that makes both of those concepts possible is ambidextrous organization.
 4. Ambidextrous organization is a way to capture the challenge in businesses being able to make steady improvements to existing models whilst still developing breakthrough innovations.
 
-
+---
 
 Markdown | Less | Pretty
 --- | --- | ---
