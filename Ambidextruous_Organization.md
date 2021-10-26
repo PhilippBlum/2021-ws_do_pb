@@ -16,7 +16,7 @@
 
 ---
 
-* &#34;Ambidexterity&#34; can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
+* &#34;***Ambidexterity***&#34; can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
 
 ---
 
@@ -30,17 +30,11 @@
 
 ---
 
-- Restructuring the organization and splitting teams and creating new teams makes it possible to react to the environmental change.
-- Its important that every instance is ready and open-minded for the new
-- The organization must focus on exploration and exploitation equally
-
----
-
 # Why were Ambidextrous Organizations developed?
 
-- Exploration and Exploitation were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
+- ***Exploration*** and ***Exploitation*** were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
 - Therefore multiple frameworks were build to make that possible.
->> &rarr; one of those frameworks is an "Ambidextrous Organization"
+>> &rarr; one of those frameworks is an "***Ambidextrous Organization***"
 
 ---
 
@@ -73,12 +67,7 @@ It results in:
 2.	Reduction of change 
 3.	Retaining and protecting identity. 
 
-##### Example: 
-Building new teams with focusing on specific skills from old ones so reusing or using the resources differently than before. 
-Teams who are working together for several years have adapted the behavior, thinking and vision of the other team members. Switching up the teams and recreating on a different type of focus it could help to reactivate those resources for the better.
-
 ---
-
 
 # Results of exploration 
 * Organizations that focus on exploration fix their gaze upon the horizon. 
@@ -91,10 +80,6 @@ It results in:
 2.	Embracing conflicts and using it positively 
 3.	Accepting and adapting to change 
 4.	Considering new identities 
-
-##### Example:
-Big companies build a team or new instance which is focusing on the exploration part. For example, like the bmw startup garage
-
 
 ---
 
@@ -137,3 +122,10 @@ Brain picture On this picture you can see the upsides of both exploration and ex
 2. Approaches to that are exploration and exploitation. 
 3. The framework that makes both of those concepts possible is ambidextrous organization.
 4. Ambidextrous organization is a way to capture the challenge in businesses being able to make steady improvements to existing models whilst still developing breakthrough innovations.
+
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
