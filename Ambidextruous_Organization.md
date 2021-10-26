@@ -1,7 +1,7 @@
 <style type="text/css" rel="stylesheet">
-* { color: white; 
+* { color: ; 
     /background-image: url("Background.jpg");
-    border-collapse: collapse;
+    border-collapse: separate;
 }
 </style>
 
@@ -98,15 +98,11 @@ To quickly sum up, what our research found out.
 ---
 
 ### Upsides
-On this picture you can see the upsides of both exploration and exploitation approaches.
-
 ![View](IMG_0316.jpg)
 
----
+On this picture you can see the upsides of both exploration and exploitation approaches.
 
-![View](IMG_0317.jpg)
-
----
+----
 # Main takeaways
 
 1. To stay relevant you have to constantly innovate. 
@@ -115,6 +111,12 @@ On this picture you can see the upsides of both exploration and exploitation app
 4. Ambidextrous organization is a way to capture the challenge in businesses being able to make steady improvements to existing models whilst still developing breakthrough innovations.
 
 ---
+
+![View](IMG_0317.jpg)
+
+---
+
+
 
 Markdown | Less | Pretty
 --- | --- | ---
