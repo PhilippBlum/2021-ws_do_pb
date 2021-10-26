@@ -1,11 +1,11 @@
 <style type="text/css" rel="stylesheet">
 * { color: ; 
     /background-image: url("Background.jpg");
-    border-collapse: separate;
+    border-collapse: ;
 }
 </style>
 
-# Table of content 
+### Table of Content
 1. Meaning
 1. Reason for Ambidexterity
 1. Emergence of Ambidextrious Organisations    
@@ -16,7 +16,7 @@
 
 ---
 
-# Meaning
+### Meaning
 * The Roman god Janus had two sets of eyes— one pair focusing on what lay behind, the other on what lay ahead. 
 
 ![View](AmbidextriousView2.0.JPG)
@@ -27,7 +27,7 @@
 
 ---
 
-# Reasons to transform 
+### Reasons to transform 
 * Communication problems
 * Poor flexibility
 * Long decision-making path
@@ -36,15 +36,7 @@
 
 ---
 
-### Why were Ambidextrous Organizations developed?
-
-- ***Exploration*** and ***Exploitation*** were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
-- Therefore multiple frameworks were build to make that possible.
->> &rarr; one of those frameworks is an "***Ambidextrous Organization***"
-
----
-
-## Exploitation and Exploration 
+### Exploitation and Exploration 
 #### Exploitation: 
 It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
 >> &rarr; Ressources, process, units, structure, teams, etc.
@@ -52,6 +44,15 @@ It refers to constantly exploiting the available resources and ideas and making 
 Constantly innovating and exploring new ideas and opportunities. 
  >> &rarr; Innovations, optimization, improvements through change management 
  
+---
+
+### Why were Ambidextrous Organizations developed?
+
+- ***Exploration*** and ***Exploitation*** were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
+---
+
+- Therefore multiple frameworks were build to make that possible.
+>> &rarr; one of those frameworks is an "***Ambidextrous Organization***"
 
 ---
 
@@ -72,14 +73,14 @@ Focusing on existing resources| Focusing on innovation |
 
 ---
 
-## Summary
+### Summary
 To quickly sum up, what our research found out.
-1. The essence of exploitation is the refinement and extension of existing competencies, technologies, and paradigms.
+1. The essence of <html> <body> <font color="red">exploitation </font> </body> </html> is the <html> <body> <font color="red">refinement </font> </body> </html> and extension of <html> <body> <font color="red">existing competencies, technologies, and paradigms. </font> </body> </html>
 2. Exploration tries to  shift to a new technology which means finding a new trajectory. It's done by planned experimentation and play.
-3. The essence of exploration is experimentation with new alternatives to come up with new ideas.
+3. The essence of <html> <body> <font color="green">exploration </font> </body> </html>is <html> <body> <font color="green">explerimentation </font> </body> </html> with new alternatives to come up with new ideas.
 
 ---
-## Why were Ambidextrous Organizations developed?
+### Ambidextrous Organization
 
 - Exploration and Exploitation 
 - Innovation
@@ -87,7 +88,7 @@ To quickly sum up, what our research found out.
 
 ---
 
-# Ambidextrous Organizations
+### Ambidextrous Organizations
 
 [Be efficient in todays management and also be able to adapt tomorrows changes.](https://app.animaker.com/previewslides/WHFtBJYZHFcUj3qD)
 
@@ -103,7 +104,7 @@ To quickly sum up, what our research found out.
 On this picture you can see the upsides of both exploration and exploitation approaches.
 
 ----
-# Main takeaways
+### Main takeaways
 
 1. To stay relevant you have to constantly innovate. 
 2. Approaches to that are exploration and exploitation. 
