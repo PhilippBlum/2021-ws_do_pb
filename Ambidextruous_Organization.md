@@ -90,10 +90,6 @@ To quickly sum up, what our research found out.
 
 ---
 
-Video Clip with animaker. 
-
----
-
 ### Upsides
 On this picture you can see the upsides of both exploration and exploitation approaches.
 
@@ -117,3 +113,11 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+
+<style type="text/css" rel="stylesheet">
+* { color: white; 
+    background-image: 
+
+}
+</style>
