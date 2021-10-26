@@ -82,7 +82,7 @@ To quickly sum up, what our research found out.
 
 # Ambidextrous Organizations
 
-Be efficient in todays management and also be able to adapt tomorrows changes. //Link einbinden!!!
+[Be efficient in todays management and also be able to adapt tomorrows changes.](https://app.animaker.com/previewslides/WHFtBJYZHFcUj3qD)
 
 1. centralized vs decentralized
 2. tight, strict culture vs loose culture
