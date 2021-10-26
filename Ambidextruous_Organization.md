@@ -10,7 +10,7 @@
 ---
 
 # Meaning
-* The Roman god Janus had two sets of eyes—one pair focusing on what lay behind, the other on what lay ahead. 
+* The Roman god Janus had two sets of eyes— one pair focusing on what lay behind, the other on what lay ahead. 
 
 ![View](AmbidextriousView2.0.JPG)
 
