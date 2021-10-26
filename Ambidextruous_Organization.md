@@ -96,10 +96,12 @@ To quickly sum up, what our research found out.
 2. tight, strict culture vs loose culture
 3. Maximize efficiency vs frequent experiments
 
+<html> <body> <img src="IMG_0318.jpg" alt="Girl in a jacket" height="300"> </body> </html>
+
 ---
 
 ### Upsides
-![View](IMG_0316.jpg)
+<html> <body> <img src="IMG_0316.jpg" alt="Girl in a jacket" height="400"> </body> </html>
 
 On this picture you can see the upsides of both exploration and exploitation approaches.
 
