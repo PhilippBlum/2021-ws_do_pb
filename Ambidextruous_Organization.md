@@ -6,6 +6,8 @@
 </style>
 ### Ambidextrous Organization
 Xenia Oldenburger, Philipp Blum
+
+https://github.com/PhilippBlum/2021-ws_do_pb
 ---
 ### Table of Content
 1. Meaning
