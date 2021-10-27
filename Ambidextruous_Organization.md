@@ -123,7 +123,7 @@ Johnson & Johnson, Hewlett Packard
 1. To stay relevant you have to constantly innovate. 
 2. Approaches to that are exploration and exploitation. 
 3. The framework that makes both of those concepts possible is ambidextrous organization.
-4. Ambidextrous organization is a way to capture the challenge in businesses being able to make steady improvements to existing models whilst still developing breakthrough innovations.
+4. Ambidextrous organization is a way to capture the challenge in businesses being able to make steady improvements to existing models while still developing breakthrough innovations.
 
 ---
 
