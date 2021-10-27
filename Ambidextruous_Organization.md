@@ -1,10 +1,10 @@
 # Table of content 
 1. Meaning
 1. Reason for Ambidexterity
-1. Emergence of Ambidextrious Organisations    
+1. Emergence of Ambidextrous Organisations    
 1. Exploitation and Exploration
 1. Innovation
-1. Ambidetrious Organisations
+1. Ambidetrous Organisations
 1. Takeaways
 
 ---
@@ -40,7 +40,7 @@
 ## Exploitation and Exploration 
 #### Exploitation: 
 It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
->> &rarr; Ressources, process, units, structure, teams, etc.
+>> &rarr; Resources, process, units, structure, teams, etc.
 #### Exploration: 
 Constantly innovating and exploring new ideas and opportunities. 
  >> &rarr; Innovations, optimization, improvements through change management 
@@ -104,6 +104,10 @@ Brain picture On this picture you can see the upsides of both exploration and ex
 2. Approaches to that are exploration and exploitation. 
 3. The framework that makes both of those concepts possible is ambidextrous organization.
 4. Ambidextrous organization is a way to capture the challenge in businesses being able to make steady improvements to existing models whilst still developing breakthrough innovations.
+
+---
+
+# Thank you for your attention!
 
 ---
 
