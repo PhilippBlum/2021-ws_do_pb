@@ -16,13 +16,13 @@
 
 ---
 
-### Meaning
+### Background
 * The Roman god Janus had two sets of eyes— one pair focusing on what lay behind, the other on what lay ahead. 
 
 ![View](AmbidextriousView2.0.JPG)
 
 ---
-
+# Meaning
 * &#34;***Ambidexterity***&#34; can be defined as a state of being equally adapted in the use of both the left and the right hand, and also in using them at the same time. 
 
 ---
@@ -48,7 +48,8 @@ Constantly innovating and exploring new ideas and opportunities.
 
 ### Why were Ambidextrous Organizations developed?
 
-- ***Exploration*** and ***Exploitation*** were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
+- ***Exploration*** and ***Exploitation*** were researched extensively and it was found out that these two ideas could not coexist in an organization
+>> &rarr; competition for resources
 ---
 
 - Therefore multiple frameworks were build to make that possible.
