@@ -1,15 +1,22 @@
-# Table of content 
+<style type="text/css" rel="stylesheet">
+* { color: ; 
+    /background-image: url("Background.jpg");
+    border-collapse: ;
+}
+</style>
+
+### Table of Content
 1. Meaning
 1. Reason for Ambidexterity
-1. Emergence of Ambidextrous Organisations    
+1. Emergence of Ambidextrous organizations    
 1. Exploitation and Exploration
 1. Innovation
-1. Ambidetrous Organisations
+1. Ambidextrous organizations
 1. Takeaways
 
 ---
 
-# Meaning
+### Meaning
 * The Roman god Janus had two sets of eyes— one pair focusing on what lay behind, the other on what lay ahead. 
 
 ![View](AmbidextriousView2.0.JPG)
@@ -20,7 +27,7 @@
 
 ---
 
-# Reasons to transform 
+### Reasons to transform 
 * Communication problems
 * Poor flexibility
 * Long decision-making path
@@ -29,15 +36,7 @@
 
 ---
 
-# Why were Ambidextrous Organizations developed?
-
-- ***Exploration*** and ***Exploitation*** were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
-- Therefore multiple frameworks were build to make that possible.
->> &rarr; one of those frameworks is an "***Ambidextrous Organization***"
-
----
-
-## Exploitation and Exploration 
+### Exploitation and Exploration 
 #### Exploitation: 
 It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
 >> &rarr; Resources, process, units, structure, teams, etc.
@@ -45,15 +44,24 @@ It refers to constantly exploiting the available resources and ideas and making 
 Constantly innovating and exploring new ideas and opportunities. 
  >> &rarr; Innovations, optimization, improvements through change management 
  
+---
+
+### Why were Ambidextrous Organizations developed?
+
+- ***Exploration*** and ***Exploitation*** were researched extensively and it was found out that these two ideas could not coexist in an organization for various reasons (competition for resources and so on...). 
+---
+
+- Therefore multiple frameworks were build to make that possible.
+>> &rarr; one of those frameworks is an "***Ambidextrous Organization***"
 
 ---
 
-![Modell](Exploreandexploit1.png)
+![Model](Exploreandexploit1.png)
 
 ---
 
 
-![Modell](Exploreandexploit.png)
+![Model](Exploreandexploit.png)
 
 ---
 
@@ -65,40 +73,40 @@ Focusing on existing resources| Focusing on innovation |
 
 ---
 
-## Summary
+### Summary
 To quickly sum up, what our research found out.
-1. The essence of exploitation is the refinement and extension of existing competencies, technologies, and paradigms.
-2. Exploration tries to  shift to a new technology which means finding a new trajectory. They do that by planned experimentation and play.
-3. The essence of exploration is experimentation with new alternatives to come up with new ideas.
+1. The essence of <html> <body> <font color="red">exploitation </font> </body> </html> is the <html> <body> <font color="red">refinement </font> </body> </html> and extension of <html> <body> <font color="red">existing competencies, technologies, and paradigms. </font> </body> </html>
+2. Exploration tries to  shift to a new technology which means finding a new trajectory. It's done by planned experimentation and play.
+3. The essence of <html> <body> <font color="green">exploration </font> </body> </html>is <html> <body> <font color="green">explerimentation </font> </body> </html> with new alternatives to come up with new ideas.
 
 ---
-## Why were Ambidextrous Organizations developed?
+### Ambidextrous Organization
 
 - Exploration and Exploitation 
 - Innovation
-- success
+- Success
 
 ---
 
-# Ambidextrous Organizations
+### Ambidextrous Organizations
 
-Be efficient in todays management and also be able to adapt tomorrows changes. //Link einbinden!!!
+[Be efficient in todays management and also be able to adapt tomorrows changes.](https://app.animaker.com/previewslides/WHFtBJYZHFcUj3qD)
 
 1. centralized vs decentralized
 2. tight, strict culture vs loose culture
 3. Maximize efficiency vs frequent experiments
 
----
-
-Video Clip with animaker. 
+<html> <body> <img src="IMG_0318.jpg" alt="Girl in a jacket" height="300"> </body> </html>
 
 ---
 
-Brain picture On this picture you can see the upsides of both exploration and exploitation approaches. ask everyone which sides represents which concept.
+### Upsides
+<html> <body> <img src="IMG_0316.jpg" alt="Girl in a jacket" height="400"> </body> </html>
 
----
+On this picture you can see the upsides of both exploration and exploitation approaches.
 
-# Main takeaways
+----
+### Main takeaways
 
 1. To stay relevant you have to constantly innovate. 
 2. Approaches to that are exploration and exploitation. 
@@ -115,3 +123,5 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+
