@@ -118,10 +118,3 @@ On this picture you can see the upsides of both exploration and exploitation app
 # Thank you for your attention!
 
 ---
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-
