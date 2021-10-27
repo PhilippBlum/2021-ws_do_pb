@@ -4,7 +4,9 @@
     border-collapse: ;
 }
 </style>
-
+### Ambidextrous Organization
+Xenia Oldenburger, Philipp Blum
+---
 ### Table of Content
 1. Meaning
 1. Reason for Ambidexterity
@@ -35,12 +37,13 @@
 * Ignoring change leads often to interruption
 
 ---
-
-### Exploitation and Exploration 
-#### Exploitation: 
+### Exploitation: 
 It refers to constantly exploiting the available resources and ideas and making improvements wherever necessary. 
 >> &rarr; Resources, process, units, structure, teams, etc.
-#### Exploration: 
+
+---
+
+### Exploration: 
 Constantly innovating and exploring new ideas and opportunities. 
  >> &rarr; Innovations, optimization, improvements through change management 
  
@@ -49,11 +52,11 @@ Constantly innovating and exploring new ideas and opportunities.
 ### Why were Ambidextrous Organizations developed?
 
 - ***Exploration*** and ***Exploitation*** were researched extensively and it was found out that these two ideas could not coexist in an organization
->> &rarr; competition for resources
+>> &rarr; Competition for resources
 ---
 
 - Therefore multiple frameworks were build to make that possible.
->> &rarr; one of those frameworks is an "***Ambidextrous Organization***"
+>> &rarr; One of those frameworks is an "***Ambidextrous Organization***"
 
 ---
 
@@ -106,6 +109,14 @@ To quickly sum up, what our research found out.
 
 On this picture you can see the upsides of both exploration and exploitation approaches.
 
+---
+
+### Example
+
+Johnson & Johnson, Hewlett Packard
+
+<html> <body> <img src="IMG_0317.jpg" alt="ambi_orga" height="400"> </body> </html>
+
 ----
 ### Main takeaways
 
@@ -119,3 +130,22 @@ On this picture you can see the upsides of both exploration and exploitation app
 # Thank you for your attention!
 
 ---
+### Sources
+
+https://en.wikipedia.org/wiki/Ambidextrous_organization
+
+https://en.wikipedia.org/wiki/Ambidexterity
+
+https://hbr.org/2004/04/the-ambidextrous-organization
+
+https://news.stanford.edu/pr/97/970626oreilly.html
+
+https://www.hbs.edu/ris/Publication%20Files/O'Reilly%20and%20Tushman%20AMP%20Ms%20051413_c66b0c53-5fcd-46d5-aa16-943eab6aa4a1.pdf
+
+https://www.researchgate.net/publication/255644722_The_Interplay_Between_Exploration_and_Exploitation
+
+---
+
+https://jbepnet.com/journals/Vol_2_No_4_December_2015/4.pdf
+
+THE CONCEPT OF THE AMBIDEXTROUS ORGANIZATION: SYSTEMATIC LITERATURE REVIEW
